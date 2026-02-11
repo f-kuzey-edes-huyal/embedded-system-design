@@ -11,7 +11,7 @@ This repository contains Arduino (.ino) examples and exercises used in the Embed
 
 ## Requirements
 - Arduino IDE
-- Arduino Uno (or Wokwi simulator)
+- Arduino Uno (or [Wokwi simulator](https://wokwi.com/))
 
 ## How to run
 1. Open Arduino IDE
