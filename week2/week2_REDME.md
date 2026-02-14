@@ -34,3 +34,8 @@ After uploading the code, moving the joystick **left and right** will change the
 ## Demo Video
 🎥 Watch the PWM joystick → LED brightness demo here:  
 https://youtu.be/mTZRVj2_Q8A
+
+
+## 🎥 Real Arduino Demo (YouTube Short)
+
+👉 [Click here for the real-life Arduino demo](https://www.youtube.com/shorts/cXcMjiA3W3I)
