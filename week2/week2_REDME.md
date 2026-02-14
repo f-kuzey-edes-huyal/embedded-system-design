@@ -30,3 +30,7 @@ After uploading the code, moving the joystick **left and right** will change the
 - `joystick_led_sim.png` : Wiring/simulation image
 
 ![Joystick LED Wiring](joystick_led_sim.png)
+
+## Demo Video
+🎥 Watch the PWM joystick → LED brightness demo here:  
+https://youtu.be/mTZRVj2_Q8A
