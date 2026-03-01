@@ -64,4 +64,4 @@ The traffic light cycles automatically: **RED → GREEN → YELLOW → RED**, an
 
 Here is a screenshot of the traffic light simulation running:
 
-![Traffic Light Simulation](Ekran görüntüsü 2026-03-01 221241.png)
+![Traffic Light Simulation](Ekran%20görüntüsü%202026-03-01%20221241.png)
