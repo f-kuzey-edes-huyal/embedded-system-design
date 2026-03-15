@@ -60,3 +60,6 @@ The main purpose of this experiment is to observe how temperature changes can be
 - Medium values can be shown with **green** or transition colors
 - Higher temperature values can be shown with **red**
 
+## Demo Video
+
+[Watch the demo video](https://www.youtube.com/shorts/_HXoZ0HnQLw)
