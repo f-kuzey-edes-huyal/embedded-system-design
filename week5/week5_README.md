@@ -60,6 +60,12 @@ The main purpose of this experiment is to observe how temperature changes can be
 - Medium values can be shown with **green** or transition colors
 - Higher temperature values can be shown with **red**
 
+## Wokwi Simulation
+
+The following image shows the Wokwi simulation setup used in this project.
+
+![Wokwi simulation](wokwi_simulation.png)
+
 ## Demo Video
 
 [Watch the demo video](https://www.youtube.com/shorts/_HXoZ0HnQLw)
