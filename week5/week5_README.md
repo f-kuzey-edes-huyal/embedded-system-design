@@ -38,7 +38,7 @@ Connections:
 
 ## Code Configuration
 
-The [code) uses the following settings:
+The [code](https://github.com/f-kuzey-edes-huyal/embedded-system-design/blob/main/week5/arduino_temperature_sensor.ino) uses the following settings:
 
 - `COMMON_CATHODE = true`  
   This means the RGB LED is configured as **common cathode**.
