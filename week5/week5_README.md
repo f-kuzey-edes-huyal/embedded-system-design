@@ -14,6 +14,44 @@ The system reads temperature data from the sensor and changes the LED color base
 - Arduino IDE
 - Wokwi simulation
 
+## Arduino Pin Connections
+
+The following connections are used in the code:
+
+### KY-013 Temperature Sensor
+- `TEMP_PIN = A0`
+- Sensor signal pin → **A0**
+- VCC → **5V**
+- GND → **GND**
+
+### KY-016 RGB LED
+- `RED_PIN = 11`
+- `GREEN_PIN = 9`
+- `BLUE_PIN = 10`
+
+Connections:
+- Red pin of RGB LED → **Digital Pin 11**
+- Green pin of RGB LED → **Digital Pin 9**
+- Blue pin of RGB LED → **Digital Pin 10**
+- Common pin of RGB LED → **GND** if using **common cathode**
+- Common pin of RGB LED → **5V** if using **common anode**
+
+## Code Configuration
+
+The [code) uses the following settings:
+
+- `COMMON_CATHODE = true`  
+  This means the RGB LED is configured as **common cathode**.
+
+- `INVERT_TEMP_DIRECTION = false`  
+  If touching the sensor causes colder colors instead of warmer colors, this value can be changed to `true`.
+
+- `TOUCH_GAIN = 20.0`  
+  This increases sensitivity so that small temperature changes become easier to see.
+
+- `NEUTRAL_BAND = 1`  
+  This defines a small neutral temperature zone around room temperature.
+
 ## Project Idea
 
 The main purpose of this experiment is to observe how temperature changes can be represented visually with different LED colors.
