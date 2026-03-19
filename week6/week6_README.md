@@ -57,6 +57,13 @@ The Arduino then decodes the signal and reads values such as:
 - **Protocol**
 - **Address**
 - **Command**
+  Example:
+
+```text
+Protocol=NEC Address=0x2 Command=0x13
+```
+
+
 
 ---
 
@@ -71,9 +78,4 @@ This screenshot shows the Wokwi simulation step where we test the IR remote and 
 This screenshot shows the final stage of the Wokwi simulation, where the selected remote button controls the LED.
 
 ![Wokwi simulation - remote-controlled LED lighting](remote_led.png)
-
-Example:
-
-```text
-Protocol=NEC Address=0x2 Command=0x13
 
