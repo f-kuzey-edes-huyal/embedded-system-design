@@ -79,3 +79,6 @@ This screenshot shows the final stage of the Wokwi simulation, where the selecte
 
 ![Wokwi simulation - remote-controlled LED lighting](remote_led.png)
 
+## Experiment Video Demo
+
+You can watch the demo video here: [YouTube Shorts Demo](https://www.youtube.com/shorts/eOuydaGv2Wo)
