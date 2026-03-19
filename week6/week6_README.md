@@ -58,6 +58,20 @@ The Arduino then decodes the signal and reads values such as:
 - **Address**
 - **Command**
 
+---
+
+## Wokwi Simulation - Learning Hex Code
+
+This screenshot shows the Wokwi simulation step where we test the IR remote and read the button's hexadecimal command from the Serial Monitor.
+
+![Wokwi simulation - learning hex code](learning_hex.png)
+
+## Wokwi Simulation - Lighting the LED
+
+This screenshot shows the final stage of the Wokwi simulation, where the selected remote button controls the LED.
+
+![Wokwi simulation - remote-controlled LED lighting](remote_led.png)
+
 Example:
 
 ```text
