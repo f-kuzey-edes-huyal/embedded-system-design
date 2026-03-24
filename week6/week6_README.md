@@ -82,3 +82,8 @@ This screenshot shows the final stage of the Wokwi simulation, where the selecte
 ## Experiment Video Demo
 
 You can watch the demo video here: [YouTube Shorts Demo](https://www.youtube.com/shorts/eOuydaGv2Wo)
+
+
+## Installing the IRremote Library
+
+Install the **IRremote** library from **Arduino IDE → Tools → Manage Libraries…**, search for **IRremote**, and click **Install**.
