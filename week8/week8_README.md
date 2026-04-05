@@ -159,5 +159,6 @@ Using `millis()` is a better design approach for systems that need to handle mul
 
 ---
 
-
+## KY-037 Sound Sensor and LED Circuit
+![KY-037 experiment setup](sound_sensor.png)
 
