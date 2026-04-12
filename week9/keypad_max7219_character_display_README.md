@@ -90,6 +90,7 @@ So the experiment also helps students understand that:
 
 ---
 
+
 ## Expected Output
 
 | Input from Keypad | Output on MAX7219 Matrix |
@@ -106,9 +107,9 @@ Also, the Serial Monitor prints messages such as:
 Pressed: 1
 Pressed: A
 Pressed: #
+```
 
-# Keypad to MAX7219 Character Display Experiment
-
+---
 ## Wokwi Experiment Screenshot
 
 The following image shows the Wokwi simulation of the keypad and MAX7219 character display experiment.
